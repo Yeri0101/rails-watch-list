@@ -32,6 +32,10 @@ gem "jbuilder"
 
 gem "simple_form", github: "heartcombo/simple_form"
 
+gem "autoprefixer-rails"
+gem "font-awesome-sass", "~> 6.1"
+gem "sassc-rails"
+
 # Use Kredis to get higher-level data types in Redis [https://github.com/rails/kredis]
 # gem "kredis"
 
